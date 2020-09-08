@@ -16,8 +16,15 @@
 - 🖥 &nbsp; AWS | Linux
 
 <br/>
+### ⚙️ &nbsp;GitHub Analytics
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipink1203&show_icons=true)](https://github.com/AVS1508)
+<p align="center">
+<a href="https://github.com/vipink1203">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vipink1203&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vipink1203&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
